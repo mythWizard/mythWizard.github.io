@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryan White | Jacob Carney</title>
+    <link>/authors/ryan-white/</link>
+      <atom:link href="/authors/ryan-white/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ryan White</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Oct 2019 14:03:34 -0400</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Ryan White</title>
+      <link>/authors/ryan-white/</link>
+    </image>
+    
+    <item>
+      <title>Synthesis of 3,5-substituted Parabens and their Antimicrobial Properties</title>
+      <link>/publication/parabens/</link>
+      <pubDate>Fri, 11 Oct 2019 14:03:34 -0400</pubDate>
+      <guid>/publication/parabens/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

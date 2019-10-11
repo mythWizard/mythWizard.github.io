@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jacob Carney</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jacob Carney</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Oct 2019 14:03:34 -0400</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Jacob Carney</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Synthesis of 3,5-substituted Parabens and their Antimicrobial Properties</title>
+      <link>/publication/parabens/</link>
+      <pubDate>Fri, 11 Oct 2019 14:03:34 -0400</pubDate>
+      <guid>/publication/parabens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FooBar&#43;&#43;</title>
+      <link>/project/foobar/foobarplusplus/</link>
+      <pubDate>Fri, 25 May 2018 17:38:55 -0400</pubDate>
+      <guid>/project/foobar/foobarplusplus/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/LongwoodFooBar/SeniorSeminarProject&#34; target=&#34;_blank&#34;&gt;FooBar++&lt;/a&gt; is a project I worked on for my Senior Capstone in Computer Science at Longwood University. It is a web-based system for Computer Science 160 and 162 students to test their code for projects and for instructors to assign work. Students will be able to work in a safe, sandbox environment. This system is built around operation on an internal network. It is intended to be run on Linux- or UNIX-based machines.&lt;/p&gt;
+
+&lt;p&gt;The other members of my team were:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/BenjaminByrnes&#34; target=&#34;_blank&#34;&gt;Ben Byrnes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Jonathangunter1&#34; target=&#34;_blank&#34;&gt;Jonathan Gunter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/LittleBoyTimmy&#34; target=&#34;_blank&#34;&gt;Joseph Harp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/btreyl11&#34; target=&#34;_blank&#34;&gt;Brandon Lewis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Heatherms27&#34; target=&#34;_blank&#34;&gt;Heather Switzer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/tylerzamoracarden&#34; target=&#34;_blank&#34;&gt;Tyler Zamora-Carden&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
