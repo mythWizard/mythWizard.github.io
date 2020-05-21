@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>twitter | Jacob Carney</title>
+    <link>/tags/twitter/</link>
+      <atom:link href="/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
+    <description>twitter</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Apr 2018 12:00:00 -0500</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>twitter</title>
+      <link>/tags/twitter/</link>
+    </image>
+    
+    <item>
+      <title>Twitter Light Bot</title>
+      <link>/project/lightbot/lightbot/</link>
+      <pubDate>Mon, 02 Apr 2018 12:00:00 -0500</pubDate>
+      <guid>/project/lightbot/lightbot/</guid>
+      <description>&lt;p&gt;During the summer of 2017, Longwood University&amp;rsquo;s Computer Science department moved from the basement of the Hardy House into unused rooms in Stevens Hall. One of the minor inconveniences that came with the move was that the new lab had energy efficient lights that automatically turned off when no activity was detected. The motion sensors were blocked by a wall, making the front of the room (where there are no computers), the only place visible to the sensors. Students would not be able to just stand up or wave at the sensor to activate it. This meant that sometimes, the lights would not come back on unless someone new entered the lab.&lt;/p&gt;
+&lt;p&gt;Longwood&amp;rsquo;s chapter of ACM wanted to create a silly way for students to turn the lights back on without needing to leave their work.&lt;/p&gt;
+&lt;p&gt;The solution was silly: &amp;ldquo;What if we had a way to tweet at the lab and turn on the lights with a servo powered arm?&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;We set up a Twitter account for the lab and we created a Twitter bot in Python to listen for @ mentions to the lab account. The bot used the googletrans module to tweet a quote back at whoever requested light in a random language. The code for both the &lt;a href=&#34;https://github.com/Longwood-ACM/lightBot&#34;&gt;light bot&lt;/a&gt; and the &lt;a href=&#34;https://github.com/Longwood-ACM/MotionSensor&#34;&gt;servo&lt;/a&gt; are available on Github.&lt;/p&gt;
+&lt;p&gt;This project has since been deprecated in favor of a newer project headed by &lt;a href=&#34;https://github.com/TheBiggerFish&#34;&gt;Cameron Haddock&lt;/a&gt; that I assume is more practical.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,9 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/publication_types/0/</loc>
+    <loc>/tags/c&#43;&#43;/</loc>
+    <lastmod>2020-05-21T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/game/</loc>
+    <lastmod>2020-05-21T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-05-21T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-05-21T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/ratslayer/ratslayer/</loc>
+    <lastmod>2020-05-21T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-05-21T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
     <lastmod>2019-10-11T14:03:34-04:00</lastmod>
   </url>
   
@@ -13,12 +43,17 @@
   </url>
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-10-11T14:03:34-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/jacob-carney/</loc>
     <lastmod>2019-10-11T14:03:34-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/categories/organic-chemistry/</loc>
     <lastmod>2019-10-11T14:03:34-04:00</lastmod>
   </url>
   
@@ -44,40 +79,36 @@
   
   <url>
     <loc>/tags/flask/</loc>
-    <lastmod>2018-05-25T17:38:55-04:00</lastmod>
+    <lastmod>2018-05-25T17:38:55-05:00</lastmod>
   </url>
   
   <url>
     <loc>/project/foobar/foobarplusplus/</loc>
-    <lastmod>2018-05-25T17:38:55-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2018-05-25T17:38:55-04:00</lastmod>
+    <lastmod>2018-05-25T17:38:55-05:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/python/</loc>
-    <lastmod>2018-05-25T17:38:55-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2018-05-25T17:38:55-04:00</lastmod>
+    <lastmod>2018-05-25T17:38:55-05:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/web/</loc>
-    <lastmod>2018-05-25T17:38:55-04:00</lastmod>
+    <lastmod>2018-05-25T17:38:55-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/twitter/</loc>
+    <lastmod>2018-04-02T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/lightbot/lightbot/</loc>
+    <lastmod>2018-04-02T12:00:00-05:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
   </url>
   
   <url>
