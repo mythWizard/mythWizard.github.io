@@ -25,5 +25,15 @@
 </description>
     </item>
     
+    <item>
+      <title>Homebrew Arcade Games</title>
+      <link>/project/arcadegames/arcadegames/</link>
+      <pubDate>Tue, 10 Mar 2020 12:00:00 -0500</pubDate>
+      <guid>/project/arcadegames/arcadegames/</guid>
+      <description>&lt;p&gt;One of the things I enjoy doing in my free time (when I get free time) is rewriting arcade games. I have cloned games like [Breakout](&lt;a href=&#34;https://en.wikipedia.org/wiki/Breakout_(video_game)&#34;&gt;https://en.wikipedia.org/wiki/Breakout_(video_game)&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/Tetris&#34;&gt;Tetris&lt;/a&gt;. Both of these games are implemented in C++ using Allegro 5 for keyboard input, audio, and graphics.&lt;/p&gt;
+&lt;p&gt;My current project is a clone of a game called &lt;a href=&#34;https://deathball.cab&#34;&gt;DeathBall&lt;/a&gt;, which I discovered at an arcade in Morgantown, West Virginia. I decided to use &lt;a href=&#34;https://unity3d.com&#34;&gt;Unity&lt;/a&gt; to recreate this game since it required a bit more physics than I was willing to try implementing on my own. I do not plan to post this one on Github for potential issues with copywrite.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

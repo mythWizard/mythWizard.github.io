@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>javascript | Jacob Carney</title>
+    <link>/tags/javascript/</link>
+      <atom:link href="/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <description>javascript</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Mar 2020 12:00:00 -0500</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>javascript</title>
+      <link>/tags/javascript/</link>
+    </image>
+    
+    <item>
+      <title>Food Tracker</title>
+      <link>/project/foodtracker/foodtracker/</link>
+      <pubDate>Tue, 10 Mar 2020 12:00:00 -0500</pubDate>
+      <guid>/project/foodtracker/foodtracker/</guid>
+      <description>&lt;p&gt;While I was following the University of Helsinki&amp;rsquo;s &lt;a href=&#34;https://fullstackopen.com/en/&#34;&gt;Full Stack Open&lt;/a&gt; course, I decided one of the projects I should work on would be a food tracker. I have loosely used Fitbit&amp;rsquo;s food tracking functionality since I am a Fitbit user. However, I intended the focus of the tracker to be visualizing various metrics / breakdowns of a user&amp;rsquo;s diet. I settled on using Nutritionix for the nutrition lookup and d3.js for the visualization framework.&lt;/p&gt;
+&lt;p&gt;The application has basic functionality for logging in, logging an entry based either on entered information or UPC lookup (no barcode scanning), and charting the breakdown of calories by meal and macros.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/mythWizard/foodtracker-frontend&#34;&gt;Frontend&lt;/a&gt;
+&lt;a href=&#34;https://github.com/mythWizard/foodtracker&#34;&gt;Backend&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
