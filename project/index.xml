@@ -30,7 +30,7 @@
       <link>/project/foodtracker/foodtracker/</link>
       <pubDate>Tue, 10 Mar 2020 12:00:00 -0500</pubDate>
       <guid>/project/foodtracker/foodtracker/</guid>
-      <description>&lt;p&gt;While I was following the University of Helsinki&amp;rsquo;s &lt;a href=&#34;https://fullstackopen.com/en/&#34;&gt;Full Stack Open&lt;/a&gt; course, I decided one of the projects I should work on would be a food tracker. I have loosely used Fitbit&amp;rsquo;s food tracking functionality since I am a Fitbit user. However, I intended the focus of the tracker to be visualizing various metrics / breakdowns of a user&amp;rsquo;s diet. I settled on using Nutritionix for the nutrition lookup and d3.js for the visualization framework.&lt;/p&gt;
+      <description>&lt;p&gt;While I was following the University of Helsinki&amp;rsquo;s &lt;a href=&#34;https://fullstackopen.com/en/&#34;&gt;Full Stack Open&lt;/a&gt; course, I decided one of the projects I should work on would be a food tracker. I have loosely used Fitbit&amp;rsquo;s food tracking functionality since I am a Fitbit user. However, I intended the focus of the tracker to be visualizing various metrics / breakdowns of a user&amp;rsquo;s diet. I settled on using &lt;a href=&#34;https://www.nutritionix.com/business/api&#34;&gt;Nutritionix&lt;/a&gt; for the nutrition lookup and &lt;a href=&#34;https://www.d3js.org&#34;&gt;d3.js&lt;/a&gt; for the visualization framework.&lt;/p&gt;
 &lt;p&gt;The application has basic functionality for logging in, logging an entry based either on entered information or UPC lookup (no barcode scanning), and charting the breakdown of calories by meal and macros.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/mythWizard/foodtracker-frontend&#34;&gt;Frontend&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/mythWizard/foodtracker&#34;&gt;Backend&lt;/a&gt;&lt;/p&gt;
@@ -42,7 +42,7 @@
       <link>/project/arcadegames/arcadegames/</link>
       <pubDate>Tue, 10 Mar 2020 12:00:00 -0500</pubDate>
       <guid>/project/arcadegames/arcadegames/</guid>
-      <description>&lt;p&gt;One of the things I enjoy doing in my free time (when I get free time) is rewriting arcade games. I have cloned games like [Breakout](&lt;a href=&#34;https://en.wikipedia.org/wiki/Breakout_(video_game)&#34;&gt;https://en.wikipedia.org/wiki/Breakout_(video_game)&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/Tetris&#34;&gt;Tetris&lt;/a&gt;. Both of these games are implemented in C++ using Allegro 5 for keyboard input, audio, and graphics.&lt;/p&gt;
+      <description>&lt;p&gt;One of the things I enjoy doing in my free time (when I get free time) is rewriting arcade games. I have cloned games like &lt;a href=&#34;https://en.wikipedia.org/wiki/Breakout_(video_game)&#34;&gt;Breakout&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/Tetris&#34;&gt;Tetris&lt;/a&gt;. Both of these games are implemented in C++ using Allegro 5 for keyboard input, audio, and graphics.&lt;/p&gt;
 &lt;p&gt;My current project is a clone of a game called &lt;a href=&#34;https://deathball.cab&#34;&gt;DeathBall&lt;/a&gt;, which I discovered at an arcade in Morgantown, West Virginia. I decided to use &lt;a href=&#34;https://unity3d.com&#34;&gt;Unity&lt;/a&gt; to recreate this game since it required a bit more physics than I was willing to try implementing on my own. I do not plan to post this one on Github for potential issues with copywrite.&lt;/p&gt;
 </description>
     </item>
