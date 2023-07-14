@@ -1,5 +1,7 @@
 baseURL = 'https://mythWizard.github.io/'
 languageCode = 'en-us'
+language = 'en'
+disableKinds = []
 title = "mythWizard's Library"
 theme = 'hermit'
 pygmentsCodefences  = true
