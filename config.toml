@@ -1,0 +1,64 @@
+baseURL = 'https://mythWizard.github.io/'
+languageCode = 'en-us'
+title = "mythWizard's Library"
+theme = 'hermit'
+pygmentsCodefences  = true
+pygmentsUseClasses  = true
+rssLimit = 10
+enableEmoji = true
+
+[author]
+  name = "mythWizard"
+
+[taxonomies]
+	tag = "tags"
+	# Categories are disabled by default.
+
+[params]
+	dateform        = "Jan 2, 2006"
+	dateformShort   = "Jan 2"
+	dateformNum     = "2006-01-02"
+	dateformNumTime = "2006-01-02 15:04 -0700"
+
+	homeSubtitle = "Software developer by day, streamer and game developer by night."
+
+	justifyContent = false
+	
+	relatedPosts = false
+
+	code_copy_button = false
+
+# Social Icons
+	# Check https://github.com/Track3/hermit#social-icons for more info.
+	[[params.social]]
+		name = "twitch"
+		url = "https://twitch.tv/mythWizard"
+	
+	[[params.social]]
+		name = "mastodon"
+		url = "https://mastodon.online/@mythWizard"
+
+	[[params.social]]
+		name = "youtube"
+		url = "https://youtube.com/@myth_wizard"
+
+	[[params.social]]
+		name = "github"
+		url = "https://github.com/mythWizard"
+
+[menu]
+
+	[[menu.main]]
+		name = "Posts"
+		url = "posts/"
+		weight = 10
+	
+	[[menu.main]]
+		name = "Projects"
+		url = "projects/"
+		weight = 20
+
+	[[menu.main]]
+		name = "About"
+		url = "about-myth/"
+		weight = 30
