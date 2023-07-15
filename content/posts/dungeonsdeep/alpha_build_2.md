@@ -20,6 +20,6 @@ external_link = ""
 highlight = true
 +++
 
-This build of the game introduced voices, a new [asset pack](https://kaylousberg.itch.io/kaykit-dungeon-remastered), and the rest of the Skellie mobs (barbarian, mage, archer). This was also the first build of the game I handed out to a friend to test, which generated me a handful of bug tickets that needed fixing in [Alpha Build 3]({{ ref "posts/dungeonsdeep/alpha_build_3.md >}})...
+This build of the game introduced voices, a new [asset pack](https://kaylousberg.itch.io/kaykit-dungeon-remastered), and the rest of the Skellie mobs (barbarian, mage, archer). This was also the first build of the game I handed out to a friend to test, which generated me a handful of bug tickets that needed fixing in [Alpha Build 3]({{< ref "/posts/dungeonsdeep/alpha_build_3.md" >}})...
 
 Side note: I don't even remember my friend playing the build. I think I ended up playing it myself and finding the bugs.
