@@ -8,7 +8,7 @@ pygmentsCodefences  = true
 pygmentsUseClasses  = true
 rssLimit = 10
 enableEmoji = true
-timezone = "America/New_York"
+timeZone = "America/New_York"
 
 [author]
   name = "mythWizard"
