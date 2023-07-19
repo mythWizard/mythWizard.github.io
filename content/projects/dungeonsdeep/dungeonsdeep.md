@@ -28,4 +28,4 @@ I was afraid that this would end up like every project I've started so far, thou
 
 I plan to start posting devlogs for this game more regularly, to help keep myself accountable. I didn't start managing versions until partway through the alpha phase and didn't start using version control until later. I will post backdated devlogs for the alpha versions I do have records for in Notion.
 
-Alpha build #7 should be the first one posted publicly whenever I force myself to finish it.
+Demo builds are currently available on [itch.io](https://mythwizard.itch.io/dungeons-deep).
