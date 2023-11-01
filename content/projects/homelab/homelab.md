@@ -21,7 +21,7 @@ highlight = true
 
 I can safely say that I put too much effort into my home network. It's not as much as some, but definitely more than most. 
 
-My desktop runs Manjaro Linux and KP's desktop runs ElementaryOS.
+My desktop runs Manjaro Linux and KP's desktop runs ElementaryOS. My desktop also runs a [PhantomBot](https://github.com/phantombot/PhantomBot) instance that manages my commands and timers on my [Twitch channel](https://twitch.tv/mythWizard)
 
 I run several systems from an [old laptop](https://www.msi.com/Laptop/GS70-STEALTH/Specification) of mine. Its wireless card doesn't work anymore, so it stays plugged in via Ethernet to my router (which works out for the best anyway). The laptop runs on Manjaro Linux, though I've considered an OS change for it.
 
@@ -30,7 +30,6 @@ That laptop really takes the brunt of my server needs. I use it for so many thin
 - A local [Overleaf](https://www.overleaf.com/) instance that KP and I use to add recipes to the vegan cookbook we're compiling for our convenience
 - A [Synapse homeserver](https://github.com/matrix-org/synapse) that KP and I use [Element](https://element.io/) to connect to in order to transmit voice when we stream together (Discord was too slow for me)
 - A [Pi-Hole](https://pi-hole.net/) DNS sinkhole that blocks ads from various lists
-- A [PhantomBot](https://github.com/phantombot/PhantomBot) instance that manages my commands and timers on my [Twitch channel](https://twitch.tv/mythWizard)
 
 I have an [8TB Seagate Backup Plus Hub](https://www.seagate.com/products/external-hard-drives/backup-plus-hub/) that I use to store the unedited versions of my stream VoDs.
 
