@@ -9,7 +9,7 @@ The username "mythWizard" comes from my high school classical mythology class. I
 
 Now to the present:
 
-I'm a software developer at a small company located in the Shenandoah Valley. I joined them while on a leave of abscence from my M.S./Ph.D. program and ultimately ended up staying there, leaving academia behind entirely.
+I'm a software developer located in the Shenandoah Valley. I joined them while on a leave of abscence from my M.S./Ph.D. program and ultimately ended up staying there, leaving academia behind entirely.
 
 I live with my fiancée, KP, and our two dogs, Korra and Kasper. She and I are vegan, the dogs are not. 
 
